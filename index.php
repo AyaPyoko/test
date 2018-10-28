@@ -21,7 +21,7 @@
         <![endif]-->
 
         <!-- ここにサイトやアプリのコンテンツ -->
-        <p id="id00">Hello World!</p>
+        <p id="id00">Hello World!!!</p>
 
         <!--
         <script src="js/vendor/modernizr-3.5.0.min.js"></script>
